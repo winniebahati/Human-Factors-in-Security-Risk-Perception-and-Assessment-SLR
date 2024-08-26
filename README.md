@@ -41,9 +41,9 @@ The keywords used to extract the studies are outlined below;
 To aide in future replication of this study, we have made available the following materials;
 1. Extracted data from each digital library (.bib)
 2. Data after removal of duplicates
-3. Resulting publications after the first filtering step (I/E on title and keywords)
-4. Sample participants report and exit questionnaire
-5. python notebook
+3. Resulting publications after each filtering step (I/E on title and keywords)
+4. Final set of primary studies
+
 
 
 
@@ -52,7 +52,7 @@ This is the root directory of the repository. The directory is structured as fol
 
     template-replication-package
      .
-     |--- data/                            Contains data extracted from didgital libraries, including the results of each filtering steps
+     |--- data/                            Contains data extracted from didgital libraries in .bib format. In addition, we provided the excel files of the results from each filtering steps. We used 1 or 0 to indicate inclusion (1) and exclusion (0) from consideration.
      |
   
     
