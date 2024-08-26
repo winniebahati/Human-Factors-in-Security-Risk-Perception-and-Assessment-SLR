@@ -52,7 +52,7 @@ This is the root directory of the repository. The directory is structured as fol
 
     template-replication-package
      .
-     |--- data/                            Contains data extracted from didgital libraries in .bib format. In addition, we provided the excel files of the results from each filtering steps. We used 1 or 0 to indicate inclusion (1) and exclusion (0) from consideration. For publications witha borderline verdict in any of the excel, their validity to the study was discussed by either two or all the authors (in the case of quality assessment) and a verdict of either inclusion or exclusion reached.
+     |--- data/                            Contains data extracted from didgital libraries in .bib format. In addition, we provided the excel files of the results from each filtering steps. We used 1 or 0 to indicate inclusion (1) and exclusion (0) from consideration. For publications with a borderline verdict in any of the excel, their validity to the study was discussed by either two or all the authors (in the case of quality assessment) and a verdict of either inclusion or exclusion reached.
      |
   
     
