@@ -12,7 +12,7 @@ If this study is helping your research, consider to cite it is as follows, thank
   
   author={Mbaka, Winnie and van Gerwen, Sarah and Tuma, Katja},
   
-  journal={COmputers & Security},
+  journal={Computers & Security},
   
   volume={},
   
@@ -52,11 +52,9 @@ This is the root directory of the repository. The directory is structured as fol
 
     template-replication-package
      .
-     |--- data/                            Contains sample data obtained from participants reports. All identifiable information has been removed.
+     |--- data/                            Contains data extracted from didgital libraries, including the results of each filtering steps
      |
-     |--- documentation/                   Contains the scenario description for each experiement, and the list of threats adopted from each scenario.
-     |
-     |--- src/                             Contains the python notebook with a step-by-step analysis of the data obtained from participants. We did not provide the actual data used in analysis, however, the data format follows the same columns contained in the excel files uploaded in the "Data folder" in this repository. 
+  
     
     
      
