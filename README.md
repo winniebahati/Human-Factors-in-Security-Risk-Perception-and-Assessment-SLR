@@ -1,4 +1,4 @@
-# Human factors in security risk perception and assessment: a systematic literature review
+# SoK: Human Factors in Security Risk Perception and Assessment
 This repository contains the studies used in the systemitasation of knowledge on the humna fcators that effect security risk perception and assessment. Data extraction, from digtal libraries (ACM digital library, IEEE Xplore,
 Scopus, and Google Scholar), was carried out on the 20th of October, 2022
 
