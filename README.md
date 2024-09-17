@@ -2,7 +2,7 @@
 This repository contains the studies used in the systemitasation of knowledge on the humna fcators that effect security risk perception and assessment. Data extraction, from digtal libraries (ACM digital library, IEEE Xplore,
 Scopus, and Google Scholar), was carried out on the 20th of October, 2022
 
-### How to Cite us
+### How to Cite us (To be updated)
 The scientific article describing design, execution, and main results of this study is available here.
 If this study is helping your research, consider to cite it is as follows, thanks!
 
@@ -18,9 +18,9 @@ If this study is helping your research, consider to cite it is as follows, thank
   
   pages={},
   
-  year={2024},
+  year={},
   
-  publisher={Elsevier}
+  publisher={}
 }
 
 ### General overview
