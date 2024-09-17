@@ -8,11 +8,11 @@ If this study is helping your research, consider to cite it is as follows, thank
 
 @article{,
 
-  title={Human Factors in Security Risk Perception and Assessment: A Systematic Literature Review},
+  title={SoK: Human Factors in Security Risk Perception and Assessment},
   
-  author={Mbaka, Winnie and van Gerwen, Sarah and Tuma, Katja},
+  author={},
   
-  journal={Computers & Security},
+  journal={},
   
   volume={},
   
